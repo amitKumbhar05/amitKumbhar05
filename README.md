@@ -1,3 +1,4 @@
+# 💫 About Me:
 🔭 I’m currently working on<br><br>Building and deploying LLM-powered applications, experimenting with local GGUF models, and improving scalable backend architectures for AI systems.<br><br>👯 I’m looking to collaborate on<br><br>Open-source GenAI projects, AI-powered SaaS tools, backend-heavy applications, and real-world problem-solving products.<br><br>🤝 I’m looking for help with<br><br>System design for AI applications, cloud deployment strategies (AWS/Azure), and optimizing large models for production environments.<br><br>🌱 I’m currently learning<br><br>Advanced system design, DevOps fundamentals, cloud infrastructure, and improving my understanding of scalable distributed systems.<br><br>💬 Ask me about<br><br>LLMs, backend development, Python scripting, React projects, and DSA problem solving.<br>
 
 
